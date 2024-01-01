@@ -1,0 +1,8 @@
+version: "3"
+services: 
+  fron-end: 
+    container_name: neogym
+    build: .
+    ports:
+      - "9001:80"
+
