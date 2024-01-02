@@ -6,11 +6,15 @@
 
 `docker-compose up -d`
 
+
 **3.To check website, open web browser and type below url**
+
 
 `localhost:9001`
 
-**4.To stop the conayiner**
+
+**4.To stop the conatiner**
+
 
 `docker-compose -down`
 
